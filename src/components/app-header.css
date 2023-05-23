@@ -1,0 +1,17 @@
+.app-header {
+    justify-content: center;
+}
+
+.app-header p {
+    margin: 40px;
+    position: relative;
+    top: 60px;
+    left: 25px;
+    color: #7F8487;
+}
+
+.app-header h1 {
+    position: relative;
+    top: 70px;
+    left: 9px;
+}
